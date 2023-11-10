@@ -1,0 +1,48 @@
+.header-text {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: auto;
+    position: absolute;
+    top: 40%;
+    transform: translateY(-50%);
+    text-align: center;
+    color: white;
+}
+
+.h-text1 {
+    width: 100%;
+    height: auto;
+    margin-top: 80px;
+    text-align: center;
+    left: 5px;
+
+}
+
+.h-text1 h1 {
+    font-size: 70px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.h-text2 {
+    width: 100%;
+    height: auto;
+    padding-top: 70px;
+
+}
+
+.txt {
+    width: 300px;
+    height: 50px;
+    height: auto;
+    background-color: goldenrod;
+    padding: 20px;
+    padding-left: 30px;
+}
+
+.h-text2 h4 {
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
